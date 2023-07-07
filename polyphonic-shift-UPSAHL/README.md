@@ -2,6 +2,8 @@
 ![IMG-3141](https://github.com/ecruz480/guitar-pedals/assets/6435014/754b915f-c1d6-4d9b-ac5c-1a15ecdc051e)  
 This is a polyphonic pitch shift pedal based on the Spin FV-1 digital IC. This design is a clone of Earthquake Device's Rainbow Machine pedal.
 
+This is the first pedal I constructed, it uses a pre-made PCB from [PedalPCB]([url](https://www.pedalpcb.com/product/leprechaun/)).
+
 ### Features
 - Runs on 9V, center-pin negative.  
 - Six controls for primary, pitch, secondary, magic, tone, and tracking.
