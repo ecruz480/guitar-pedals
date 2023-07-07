@@ -3,7 +3,7 @@
 This is a echo/delay combo pedal based on the analog PT2399 delay line IC. This design is a clone of Earthquake Device's Ghost Echo pedal.
 
 ### Features
-- Runs on 9V, center-pin positive  
+- Runs on 9V, center-pin negative  
 - Three controls for attack, dwell, and depth  
 - Stompbox switch with light-up LED ring  
 
